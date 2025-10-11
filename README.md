@@ -19,5 +19,5 @@
 
 ## Summary
 <!-- block -->
-**Languages**: Python, C++, Assembly, HTML, JavaScript  
+**Languages**: Python, C++, HTML, JavaScript  
 **Tech**: VSCode  
