@@ -1,8 +1,8 @@
 # Hey, I'm Argishti Manasyan 👋
 
-### EECS @ UC Berkeley | Software Engineering • Machine Learning • AI
+### EECS @ UC Berkeley | Software Engineering • Machine Learning • Math
 
-I'm an Electrical Engineering & Computer Science student at UC Berkeley interested in building reliable software and applying engineering, mathematics, and machine learning to real-world problems.
+I'm an Electrical Engineering & Computer Science student at UC Berkeley interested in building scalable software and applying engineering, mathematics, and machine learning to real-world problems.
 
 ---
 
@@ -37,6 +37,18 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
 </p>
 
+### ML, Data & Validation
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/zod" alt="Zod" width="45" height="45"/>
+</p>
+
 ### Databases & Developer Tools
 
 <p align="left">
@@ -55,14 +67,12 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:argishti@berkeley.edu">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+**Email:** [argishti@berkeley.edu](mailto:argishti@berkeley.edu)
+
+<a href="https://linkedin.com/in/manasyan">
   <a href="https://linkedin.com/in/manasyan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-profile-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>
 
 ---
 
