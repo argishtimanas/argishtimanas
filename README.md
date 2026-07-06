@@ -1,4 +1,4 @@
-# Hey, I'm Argishti Manasyan 👋
+# Hey, I'm Argishti Manasyan 🤓
 
 ### EECS @ UC Berkeley | Software Engineering • Machine Learning • Math
 
@@ -6,7 +6,7 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Studying **Electrical Engineering & Computer Science (EECS)** at **UC Berkeley**
 * Experience building **production software**, **automation tools**, and **full-stack applications**
@@ -14,7 +14,7 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
 * Strong background in **mathematics, probability, optimization, and algorithms**
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -67,11 +67,6 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
 ## 📫 Connect With Me
 
 **Email:** [argishti@berkeley.edu](mailto:argishti@berkeley.edu)
-
-<a href="https://linkedin.com/in/manasyan">
-  <a href="https://linkedin.com/in/manasyan">
-    <img src="https://img.shields.io/badge/linkedin-profile-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
 
 ---
 
