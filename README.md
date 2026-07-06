@@ -4,16 +4,14 @@
 
 I'm an Electrical Engineering & Computer Science student at UC Berkeley interested in building reliable software and applying engineering, mathematics, and machine learning to real-world problems.
 
-I enjoy working across the stack—from Python automation and AI evaluation pipelines to full-stack web applications and hands-on engineering projects.
-
 ---
 
 ## 🚀 About Me
 
-* 🎓 Studying **Electrical Engineering & Computer Science (EECS)** at **UC Berkeley**
-* 💻 Experience building **production software**, **automation tools**, and **full-stack applications**
-* 🤖 Interested in **Machine Learning** and **Software Engineering**
-* 🧠 Strong background in **mathematics, probability, optimization, and algorithms**
+* Studying **Electrical Engineering & Computer Science (EECS)** at **UC Berkeley**
+* Experience building **production software**, **automation tools**, and **full-stack applications**
+* Interested in **Machine Learning** and **Software Engineering**
+* Strong background in **mathematics, probability, optimization, and algorithms**
 ---
 
 ## 🛠️ Tech Stack
