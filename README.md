@@ -1,6 +1,6 @@
 # Hey, I'm Argishti Manasyan 🤓
 
-### EECS @ UC Berkeley | Software Engineering • Machine Learning • Math
+### EECS @ UC Berkeley
 
 I'm an Electrical Engineering & Computer Science student at UC Berkeley interested in building scalable software and applying engineering, mathematics, and machine learning to real-world problems.
 
@@ -8,7 +8,6 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
 
 ## About Me
 
-* Studying **Electrical Engineering & Computer Science (EECS)** at **UC Berkeley**
 * Experience building **production software**, **automation tools**, and **full-stack applications**
 * Interested in **Machine Learning** and **Software Engineering**
 * Strong background in **mathematics, probability, optimization, and algorithms**
