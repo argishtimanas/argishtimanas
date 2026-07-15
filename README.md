@@ -1,4 +1,4 @@
-# Hey, I'm Argishti Manasyan 🤓
+# Hey, I'm Argishti Manasyan
 
 ### EECS @ UC Berkeley
 
@@ -8,7 +8,6 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
 
 ## About Me
 
-* Experience building **production software**, **automation tools**, and **full-stack applications**
 * Interested in **Machine Learning** and **Software Engineering**
 * Strong background in **mathematics, probability, optimization, and algorithms**
 ---
@@ -21,8 +20,6 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="45" height="45"/>
 </p>
 
@@ -47,21 +44,6 @@ I'm an Electrical Engineering & Computer Science student at UC Berkeley interest
   <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/zod" alt="Zod" width="45" height="45"/>
 </p>
-
-### Databases & Developer Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/>
-</p>
-
----
-
-
 
 ## 📫 Connect With Me
 
